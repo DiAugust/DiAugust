@@ -29,8 +29,8 @@ Me chamo Diego Augusto, sou de São Paulo/capital, Brasil. Sou formado em Análi
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diaugustdev@gmail.com)](mailto:diaugustdev@gmail.com)
 
 <a href="https://github.com/diaugust">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=gomesanac&show_icons=true&theme=dracula" alt="gomesanac" />
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=diaugust&show_icons=true&theme=dracula" alt="gomesanac" />
 </a>
 <a href="https://github.com/diaugust">
-  <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesanac&layout=compact&theme=dracula" alt="gomesanac" />
+  <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaugust&layout=compact&theme=dracula" alt="gomesanac" />
 </a>
