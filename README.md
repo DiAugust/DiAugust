@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Me chamo Diego Augusto, sou de São Paulo/capital, Brasil. Sou formado em Análise e Desenvolvimento de Sistemas e **Desenvolvedor Full-Stack Júnior** pela [Trybe](https://www.betrybe.com/).
+Me chamo Diego Augusto, sou de São Paulo/capital, Brasil. Sou formado em Análise e Desenvolvimento de Sistemas e **Desenvolvedor Web Júnior** pela [Trybe](https://www.betrybe.com/).
 
 - 💻 Estudando **Javascript**, **React**, **Node.js**
 - 🎨 Vim do design, tenho proficiência em ferramentas de edição de imagem como **Photoshop** e **Gimp**, também ferramentas de prototipação como **Figma** e **Adobe XD** e durante o desenvolvimento aplico conceitos como Pixel Perfect.
