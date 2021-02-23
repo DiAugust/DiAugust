@@ -4,7 +4,7 @@ Me chamo Diego Augusto, sou de São Paulo/capital, Brasil. Sou formado em Análi
 
 - 💻 Estudando **Javascript**, **React**, **Node.js**
 - 🎨 Vim do design, tenho proficiência em ferramentas de edição de imagem como **Photoshop** e **Gimp**, também ferramentas de prototipação como **Figma** e **Adobe XD** e durante o desenvolvimento aplico conceitos como Pixel Perfect.
-- 💬 Ninguém é tão grande que não possa aprender nem tão pequeno que não possa ensinar. Colaborar é um valor, me mande uma mensagem se eu puder te ajudar em algo!
+- 💬 Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar. Colaborar é um valor, me mande uma mensagem se eu puder te ajudar em algo!
 - 📬 Para entrar em contato comigo, por favor, envie um email para `diaugustdev@gmail.com`
 - 📄 Dê uma olhada no meu [Currículo](https://docs.google.com/document/d/1PDQhOcSwBntbPtBl3LXghmxPFOtOWmbObeW4fuFlsEI/edit)
 
